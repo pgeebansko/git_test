@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pgee.main.models.Docs.objects" />
+          <option value="pgee.main.models.Up.objects" />
+          <option value="pgee.main.models.Speciality.objects" />
+          <option value="pgee.main.models.Article.objects" />
+          <option value="pgee.main.models.Class.objects" />
+          <option value="pgee.main.models.History.objects" />
+          <option value="pgee.main.models.Teacher.objects" />
+          <option value="pgee.main.models.Budget.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
